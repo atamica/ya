@@ -1,3 +1,4 @@
+
 ```mermaid
 graph LR;
   untracked -- "git add" --> staged;
@@ -6,3 +7,4 @@ graph LR;
 %% стрелка без текста для примера: 
   A --> B;
 ```
+
